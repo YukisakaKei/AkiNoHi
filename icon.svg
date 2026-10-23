@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ledger">
-  <rect width="512" height="512" rx="112" fill="#0f172a" />
-  <rect x="112" y="96" width="288" height="320" rx="40" fill="#1e293b" />
-  <path d="M160 336V240M216 336V192M272 336V264M328 336V160" stroke="#38bdf8" stroke-width="24" stroke-linecap="round" />
-  <path d="M152 368H360" stroke="#64748b" stroke-width="16" stroke-linecap="round" />
-</svg>
